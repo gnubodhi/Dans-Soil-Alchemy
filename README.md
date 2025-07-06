@@ -20,9 +20,9 @@ This process produces **charcoal (biochar)** and **wood ash**, which are added t
 
 ---
 
-## 🪱 Alternative: Dog Poo Treatment
+## 🪱 Bonus: Dog Poo Treatment
 
-If you don’t want to burn dog poo, try this method:
+I recommend composting dog poo serperately away from food crops. You can try this method:
 
 - Dig a hole and place a **bottomless bucket or worm tower** in the ground  
 - Add dog poo with some **finished compost** to attract worms  
