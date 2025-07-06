@@ -21,7 +21,7 @@ This process produces **charcoal (biochar)** and **wood ash**, which are added t
 
 ### ⚠️ Note on Burning Dog Poo:
 Burning dried dog poo helps sterilise it, but may release **airborne particles and bacteria**. Only burn in a well-ventilated outdoor area, away from people and pets.  
-I personally use paper bags from my shopping to reduce particles. I place the bag at the bottom of the fire and stack sticks and other material on top.
+I personally use paper bags from my shopping to reduce particles. I place the bag at the bottom of the fire and stack sticks and other material on top. You can also leave the poo near the fire but not in it to essentially sterilise it before putting it in fully by putting it behind a large log so it doesn't actually burn until the log has caught.
 
 ---
 
