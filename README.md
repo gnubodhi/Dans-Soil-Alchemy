@@ -79,7 +79,7 @@ Use four bokashi bins on a weekly rotation:
 
 1. Fill one bin per week  
 2. Once full, ferment sealed for 4 weeks  
-3. Empty the **oldest bin** into the compost tumbler  
+3. Empty the **oldest bin** into the compost tumbler when the current bin is full (4 weeks doesn't have to be exact, but longer is better).
 4. Rinse and reset for use
 
 ### ✅ Safety Benefit:
