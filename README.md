@@ -123,8 +123,10 @@ Produces **fully mature compost** that’s safe for direct use on food crops. Nu
 🐛 **If worms are thriving in your compost, it's a clear sign that it's safe.**  
 Worms are sensitive to toxins—so if they’re active and producing castings, you can be confident the compost is mature and safe for food crops.
 
-### ✅ Safety Benefit:
-Final compost is **fully cured, microbially rich**, and safe for use on edible plants—even root crops.
+### ✅ Safety Benefit
+- Final compost is **fully cured, microbially rich**, and safe for use on edible plants—even root crops.  
+- **pH stability:** Thanks to ample brown (carbon-rich) material and the prolonged curing stage, the compost’s pH moderates toward neutral—ideal for soil health.  
+- **Complete transformation:** Inputs that were once risky for worms (e.g., dog poo, high-protein scraps) have undergone heating, fermentation, and microbial digestion, converting them into a form that worms (and your garden) can safely enjoy.
 
 ---
 
