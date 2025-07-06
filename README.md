@@ -33,7 +33,7 @@ I recommend composting dog poo serperately away from food crops. You can try thi
 This creates a **closed-loop system** for safely breaking down pet waste over time.
 
 ### ✅ Safety Benefit:
-Burning or fermenting dog waste **destroys harmful microbes and parasites**. If managed properly, it becomes a **safe soil amendment**.
+Fermenting dog waste **destroys harmful microbes and parasites**. If managed properly, it becomes a **safe soil amendment**. But never use it around food crops.
 
 ---
 
