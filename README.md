@@ -182,7 +182,7 @@ This method can be adapted for use on **certified organic farms** by omitting or
 - Ensure molasses, sugar, and food scraps are **certified organic**
 - Compost must meet organic standards for **pathogen and seed kill** (e.g. 55°C for 15+ days)
 
-With these adjustments, Dan’s Soil Alchemy can scale into a **farm-safe composting system** that aligns with **organic certification standards** such as ACO, NASAA, IFOAM, or USDA Organic. You could use some wooden sleepers to hold compost in place and plant directly into it like a mulch!
+With these adjustments, Dan’s Soil Alchemy can scale into a **farm-safe composting system** that aligns with **organic certification standards** such as ACO, NASAA, IFOAM, or USDA Organic. You could use some untreated wooden sleepers with stakes to hold compost in place and plant directly into it like a mulch!
 
 ---
 
