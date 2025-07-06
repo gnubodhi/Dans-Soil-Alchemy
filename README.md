@@ -14,6 +14,7 @@ Some materials should be burned before composting to make them safe:
 - Diseased garden waste
 - Large **bones**
 - Branches, twigs, logs
+- Put fire out before the branches go to ash as the charcoal is used throughout this composting method.
 
 This produces **charcoal (biochar)** and **wood ash**, which are added to the compost process.
 
