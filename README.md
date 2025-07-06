@@ -1,4 +1,4 @@
-# Dans-Soil-Alchemy
+# Dan's-Soil-Alchemy
 Simple yet powerful composting method
 
 Welcome to a sustainable, safe, and high-yield composting system. This method is designed to turn even high-risk organic waste into a nutrient-rich, microbially active compost that's safe for use on food crops—while reducing your environmental impact.
