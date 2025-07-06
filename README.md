@@ -143,6 +143,7 @@ You’re **converting waste into life**, not landfill. This is **composting with
 
 ---
 
+
 ## 📋 Safety Summary
 
 | Stage         | Purpose           | How It Makes Compost Safer                           |
@@ -164,6 +165,26 @@ You’re **converting waste into life**, not landfill. This is **composting with
 - ❌ Don’t forget **carbon balancing** — always add brown material  
 
 ---
+
+## 🚜 Scaling for Organic Farms
+
+This method can be adapted for use on **certified organic farms** by omitting or substituting certain inputs:
+
+### ✅ Suitable for Organic Systems
+- Supports **closed-loop nutrient cycling** using on-site organic waste
+- Enhances soil with **biochar**, **fermented microbes**, and **stable humus**
+- Improves soil structure, water retention, and microbial health
+- Reduces nutrient loss, odours, and pathogens
+
+### 🔄 Adaptations for Certification
+- **Exclude dog poo**, meat, dairy, and any non-organic materials
+- Use only **untreated wood** for biochar and ash
+- Ensure molasses, sugar, and food scraps are **certified organic**
+- Compost must meet organic standards for **pathogen and seed kill** (e.g. 55°C for 15+ days)
+
+With these adjustments, Dan’s Soil Alchemy can scale into a **farm-safe composting system** that aligns with **organic certification standards** such as ACO, NASAA, IFOAM, or USDA Organic.
+
+--
 
 ## 💬 License
 
