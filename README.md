@@ -184,6 +184,21 @@ This method can be adapted for use on **certified organic farms** by omitting or
 
 With these adjustments, Dan’s Soil Alchemy can scale into a **farm-safe composting system** that aligns with **organic certification standards** such as ACO, NASAA, IFOAM, or USDA Organic. You could use some wooden sleepers to hold compost in place and plant directly into it like a mulch!
 
+---
+
+## 🌾 Philosophy-Neutral, Soil-Positive
+
+This method is about **reducing inputs** and **rebuilding soil health**, not enforcing a particular growing philosophy.
+
+If you're using **chemical fertilisers or pesticides**, that's fine — this compost will still:
+- **Feed your soil**
+- **Improve structure and water retention**
+- **Enhance microbial diversity**
+
+Just be aware:  
+🌱 The microbes introduced through bokashi, composting, and biochar may **go dormant** if soil conditions (e.g. chemical load, pH, or moisture) aren't ideal — but they’ll reawaken when conditions improve.
+
+Whether you're **certified organic**, **conventional**, or somewhere in between, this method works to **recycle waste into living soil**.
 
 --
 
