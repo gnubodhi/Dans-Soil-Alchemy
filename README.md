@@ -107,6 +107,8 @@ Fully mature compost that is **safe to use on food crops**, with stable nutrient
 
 - **Feed to worms** to produce castings and further microbial enhancement  
 - **Apply directly** to garden beds or trees as mulch or soil amendment
+- If worms are thriving eating the compost, it's a strong sign the material is safe.
+Worms are sensitive to toxins — so if they're active and producing castings, you can be confident that your compost is mature, microbially balanced, and safe for food crops.
 
 ### ✅ Safety Benefit:
 Compost is now fully cured, microbially active, and **safe for direct contact with edible plants**.
