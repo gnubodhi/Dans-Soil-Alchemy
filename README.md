@@ -9,7 +9,6 @@ Welcome to a sustainable, safe, and high-yield composting system. This method is
 
 Some materials should be burned before composting to make them safe:
 
-- Dried **dog poo**
 - Dried **weeds** (especially if seeding or invasive)
 - Diseased **garden waste**
 - Large **bones**
@@ -19,13 +18,9 @@ Some materials should be burned before composting to make them safe:
 
 This process produces **charcoal (biochar)** and **wood ash**, which are added to later stages.
 
-### ⚠️ Note on Burning Dog Poo:
-Burning dried dog poo helps sterilise it, but may release **airborne particles and bacteria**. Only burn in a well-ventilated outdoor area, away from people and pets.  
-I personally use paper bags from my shopping to reduce particles. I place the bag at the bottom of the fire and stack sticks and other material on top. You can also leave the poo near the fire but not in it to essentially sterilise it before putting it in fully by putting it behind a large log so it doesn't actually burn until the log has caught.
-
 ---
 
-## 🪱 Alternative: Dog Poo Treatment Without Burning
+## 🪱 Alternative: Dog Poo Treatment
 
 If you don’t want to burn dog poo, try this method:
 
@@ -33,7 +28,7 @@ If you don’t want to burn dog poo, try this method:
 - Add dog poo with some **finished compost** to attract worms  
 - Spray with **bokashi liquid** to aid fermentation and reduce odour/pathogens  
 - Cover lightly with **soil or mulch**  
-- Optionally add **ash and charcoal** on top to further reduce odour and absorb ammonia  
+- Optionally add **charcoal and a small amount of ash** on top to further reduce odour and absorb ammonia  
 
 This creates a **closed-loop system** for safely breaking down pet waste over time.
 
@@ -126,7 +121,7 @@ Worms are sensitive to toxins—so if they’re active and producing castings, y
 ### ✅ Safety Benefit
 - Final compost is **fully cured, microbially rich**, and safe for use on edible plants—even root crops.  
 - **pH stability:** Thanks to ample brown (carbon-rich) material and the prolonged curing stage, the compost’s pH moderates toward neutral—ideal for soil health.  
-- **Complete transformation:** Inputs that were once risky for worms (e.g., dog poo, high-protein scraps) have undergone heating, fermentation, and microbial digestion, converting them into a form that worms (and your garden) can safely enjoy.
+- **Complete transformation:** Inputs that were once risky for worms (e.g., high-protein scraps) have undergone heating, fermentation, and microbial digestion, converting them into a form that worms (and your garden) can safely enjoy.
 
 ---
 
@@ -159,7 +154,7 @@ You’re **converting waste into life**, not landfill. This is **composting with
 
 ## ⚠️ What Not to Do
 
-- ❌ Don’t add **fresh dog poo or unburnt bones** directly  
+- ❌ Don’t add **dog poo or unburnt bones** directly to main bin 
 - ❌ Avoid sawdust from **treated or painted wood**  
 - ❌ Don’t apply **unfinished compost** to food crops  
 - ❌ Don’t forget **carbon balancing** — always add brown material  
@@ -177,7 +172,7 @@ This method can be adapted for use on **certified organic farms** by omitting or
 - Reduces nutrient loss, odours, and pathogens
 
 ### 🔄 Adaptations for Certification
-- **Exclude dog poo**, meat, dairy, and any non-organic materials
+- Meat, dairy, and any non-organic materials
 - Use only **untreated wood** for biochar and ash
 - Ensure molasses, sugar, and food scraps are **certified organic**
 - Compost must meet organic standards for **pathogen and seed kill** (e.g. 55°C for 15+ days)
