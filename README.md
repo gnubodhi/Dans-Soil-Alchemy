@@ -46,7 +46,7 @@ Burning or fermenting dog waste **destroys harmful microbes and parasites**. If 
 
 Start with a store-bought bokashi spray bottle. When it's nearly empty, refill it with:
 
-- Water treated with a **splash of lemon juice** (to dechlorinate)  
+- Water treated with a **splash of lemon juice or another vitamin C source** (to dechlorinate)  
 - **1 tsp molasses or treacle**  
 - **1 tsp sugar**
 
