@@ -26,6 +26,7 @@ If you don’t want to burn dog poo:
 - Add dog poo with some **finished compost** to attract worms
 - Spray with **bokashi liquid** to aid fermentation and reduce odour/pathogens
 - Cover lightly with soil or mulch
+- Cover with ash and charcoal to eliminate ordour
 
 This creates a **closed-loop system** for safely breaking down pet waste over time.
 
