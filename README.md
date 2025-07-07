@@ -3,6 +3,9 @@
 
 Welcome to a sustainable, safe, and high-yield composting system. This method is designed to turn even high-risk organic waste into a nutrient-rich, microbially active compost that's safe for use on food crops—while reducing your environmental impact.
 
+⚠️ Note:
+This is a general guide based on my personal experience. I can't account for your exact conditions, so please use your judgment and research when composting — especially when it comes to safety. I can’t take responsibility for any health issues or harm caused by incorrect composting.
+
 ---
 
 ## 🔥 Stage 1: Burn Hazardous Inputs
