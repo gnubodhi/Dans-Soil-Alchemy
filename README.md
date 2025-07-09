@@ -52,7 +52,7 @@ Leave the cap **loose**, and let it ferment in a warm, dark place.
 
 This creates a **live culture of Effective Microorganisms (EM)** for ongoing use.
 
-Additionally, you can increase the microbial diversity in the spray by adding bokashi leachette, fermented plant juice (I bokashi comfrey leaves), whey (liquid ontop yoghurt) or rice water.
+Additionally, you can increase the microbial diversity in the spray by adding a small amount of bokashi leachette, fermented plant juice (I bokashi comfrey leaves), whey (liquid ontop yoghurt) or rice water.
 
 ### ✅ Safety Benefit:
 Fermentation produces **low-pH conditions** that suppress harmful microbes and prevent spoilage.
