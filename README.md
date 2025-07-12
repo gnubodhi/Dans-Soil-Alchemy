@@ -71,6 +71,9 @@ Fill your bokashi bin with:
 The bin produces **leacheate**: a nitrogen-rich organic liquid fertiliser containing beneficial microbes.  
 🔸 Dilute **1:100 to 1:200** before applying to sensitive plants.
 
+### ✅ Safety Benefit:
+Bokashi Leachette is safe to dogs.
+
 ---
 
 ### 🔄 4-Bokashi Bin Rotation System
@@ -101,6 +104,9 @@ This stage introduces oxygen and supports **hot composting**.
 
 ### ✅ Safety Benefit:
 Thermophilic microbes break down proteins and fats. **Temperatures above 50°C kill any remaining pathogens**.
+
+## ⚠️ Health Warning
+My bin leaked some fluid and my dog licked it, causing him to become sick. He's alright but I am now going to use two aerobins instead of the tumbler and switch which one is active or not. The previous method is fine if you don't have children or pets.
 
 ---
 
