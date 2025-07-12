@@ -6,6 +6,17 @@ Welcome to a sustainable, safe, and high-yield composting system. This method is
 ⚠️ Note:
 This is a general guide based on my personal experience. I can't account for your exact conditions, so please use your judgment and research when composting — especially when it comes to safety. I can’t take responsibility for any health issues or harm caused by incorrect composting.
 
+⚠️ Health Warning
+If you have children or pets, make sure the bin is sealed and not leaking compost leachate. Compost bins and leachate are safe when used correctly, but it’s important to handle them carefully:
+
+Bokashi Bin: The contents of a properly managed bokashi bin (which includes kitchen scraps, small bones, etc.) are generally safe, but the bin should always be sealed to prevent contamination or leakage. It's best to keep the bin out of reach of children and pets to avoid direct handling of the waste inside.
+
+Compost Leachate: Leachate produced by compost bins, including those from tumbler bins that aren't sealed or aerobins with openings, can contain pathogens and should not be ingested. Always ensure these bins are properly sealed or positioned to prevent any leakage. If compost leachate is handled, wash hands thoroughly and avoid contact with skin, especially for children and pets.
+
+Bokashi Leachate: The liquid produced by a bokashi bin (leachate) is safe to use as a fertilizer when diluted properly (1:100 to 1:200), but it shouldn’t be ingested. Avoid direct skin contact and make sure children or pets do not handle it. If touched, wash hands thoroughly.
+
+If young children are prone to putting their hands in their mouths, it’s recommended to place the bin in an area that is not easily accessible to them. Always wash hands after handling compost or any composting materials.
+
 ---
 
 ## 🔥 Stage 1: Burn Hazardous Inputs
@@ -105,8 +116,6 @@ This stage introduces oxygen and supports **hot composting**.
 ### ✅ Safety Benefit:
 Thermophilic microbes break down proteins and fats. **Temperatures above 50°C kill any remaining pathogens**.
 
-## ⚠️ Health Warning
-If  you have children or pets, make sure the bin is sealed and not leaking compost leachette.
 ---
 
 ## 🌿 Stage 5: Aerobin or Curing Bin (with Lungs)
