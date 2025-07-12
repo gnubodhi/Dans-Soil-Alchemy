@@ -106,8 +106,7 @@ This stage introduces oxygen and supports **hot composting**.
 Thermophilic microbes break down proteins and fats. **Temperatures above 50°C kill any remaining pathogens**.
 
 ## ⚠️ Health Warning
-My bin leaked some fluid and my dog licked it, causing him to become sick. He's alright but I am now going to use two aerobins instead of the tumbler and switch which one is active or not. The previous method is fine if you don't have children or pets.
-
+If  you have children or pets, make sure the bin is sealed and not leaking compost leachette.
 ---
 
 ## 🌿 Stage 5: Aerobin or Curing Bin (with Lungs)
