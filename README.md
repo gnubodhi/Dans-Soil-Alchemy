@@ -19,13 +19,14 @@ If young children are prone to putting their hands in their mouths, it’s recom
 
 ---
 
-## 🔥 Stage 1: Burn Hazardous Inputs
+## 🔥 Stage 1: Burn Hazardous Inputs or Use an Electronic Composter
 
-Some materials should be burned before composting to make them safe:
+Some materials should be burned or put through an electric composter (expensive and high energy use) before composting to make them safe:
+Please note the electric composter can only handle small bones and branches.
 
 - Dried **weeds** (especially if seeding or invasive)
 - Diseased **garden waste**
-- Large **bones**
+- **bones**
 - **Branches, twigs, logs**
 
 ✅ *Put the fire out before the branches become ash — the goal is to preserve charcoal (biochar), which is used throughout this composting method.*
@@ -120,9 +121,9 @@ Thermophilic microbes break down proteins and fats. **Temperatures above 50°C k
 
 ## 🌿 Stage 5: Aerobin or Curing Bin (with Lungs)
 
-Once compost is partially broken down and earthy-smelling, transfer to a **curing bin** (e.g. an Aerobin) with internal airflow for 2–3 months.
+Once compost is partially broken down and earthy-smelling, transfer to a **curing bin** (e.g. an Aerobin) with internal airflow for 2–3 months, length of time needed is dependent on moisture levels and temperature.
 
-This allows the compost to stabilise fully.
+This allows the compost to stabilise fully. Check for even moisture and proper aeration. It should smell sweet and have the texture of a rainforrest surface.
 
 ### ✅ Safety Benefit:
 Produces **fully mature compost** that’s safe for direct use on food crops. Nutrients are stabilised, acidity reduced.
