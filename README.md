@@ -223,5 +223,6 @@ This work is released under the **Creative Commons CC0 1.0 Universal License**.
 🔗 [View Full Legal Text](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
+Hopefully this guide maximises your use of the organic matter that you generate at home to create garden abundance!
 
 **Happy composting! 🌾**
