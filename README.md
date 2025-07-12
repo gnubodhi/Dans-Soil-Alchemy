@@ -62,6 +62,8 @@ This creates a **live culture of Effective Microorganisms (EM)** for ongoing use
 
 Additionally, you can increase the microbial diversity in the spray by adding a small amount of bokashi leachate, fermented plant juice (I bokashi comfrey leaves), whey (liquid on top of yogurt), or rice water.
 
+I use a two bottle system and go through a bottle once a week. That way I can have one fermenting and one for use.
+
 ### ✅ Safety Benefit:
 Fermentation produces **low-pH conditions** that suppress harmful microbes and prevent spoilage.
 
