@@ -9,7 +9,7 @@ If you have children or pets, make sure the bin is sealed and not leaking compos
 - **Bokashi Bin**: The contents of a properly managed bokashi bin (which includes kitchen scraps, small bones, etc.) are generally safe, but the bin should always be sealed to prevent contamination or leakage. Keep the bin out of reach of children and pets to avoid direct handling of waste.
 - **Compost Leachate**: Leachate produced by compost bins, including those from tumbler bins that aren't sealed or aerobins with openings, can contain pathogens and should not be ingested. Always ensure these bins are properly sealed or positioned to prevent any leakage. If handled, wash hands thoroughly and avoid contact with skin, especially for children and pets.
 - **Mushrooms**: Mushrooms (including magic and deathcap mushrooms) may grow in compost with a well-developed fungal network. If this occurs, remove them immediately. Be cautious about **wild mushrooms**, as some may be toxic. Always properly manage moisture and compost temperature to reduce fungal growth.
-- **Bokashi Leachate**: The liquid produced by a bokashi bin (leachate) is safe to use as a fertilizer when diluted properly (1:100 to 1:200), but it shouldn’t be ingested. Avoid direct skin contact and ensure children or pets do not handle it. If touched, wash hands thoroughly.
+- **Bokashi Leachate**: The liquid produced by a bokashi bin (leachate) is safe to use as a fertiliser when diluted properly (1:100 to 1:200), but it shouldn’t be ingested. Avoid direct skin contact and ensure children or pets do not handle it. If touched, wash hands thoroughly.
   
 Always wash hands after handling compost materials.
 
@@ -18,11 +18,11 @@ Always wash hands after handling compost materials.
 ## 🔥 Stage 1: Burn Hazardous Inputs or Use an Electric Composter
 
 Some materials should be burned or put through an **electric composter** (expensive and high energy use) before composting to make them safe:
-*Please note the electric composter can only handle small bones and branches.*
+*Please note the electric composter can only handle small bones and branches (cut into smaller pieces to fit).*
 
 - Dried **weeds** (especially if seeding or invasive)
 - Diseased **garden waste**
-- Bokashi or burn all small **Bones** and burn all large **Bones**
+- **Bones** (small and large)
 - **Branches, twigs, logs**
 
 ✅ *Put the fire out before the branches become ash — the goal is to preserve charcoal (biochar), which is used throughout this composting method.*
@@ -37,9 +37,9 @@ I recommend composting dog poo separately from food crops. You can try this meth
 
 - Dig a hole and place a **bottomless bucket or worm tower** in the ground  
 - Add dog poo with some **finished compost** to attract worms  
-- Spray with **bokashi liquid** to aid fermentation and reduce odor/pathogens  
+- Spray with **bokashi liquid** to aid fermentation and reduce odour/pathogens  
 - Cover lightly with **soil or mulch**  
-- Optionally add **charcoal and a small amount of ash** on top to further reduce odor and absorb ammonia  
+- Optionally add **charcoal and a small amount of ash** on top to further reduce odour and absorb ammonia  
 
 This creates a **closed-loop system** for safely breaking down pet waste over time.
 
@@ -60,9 +60,9 @@ Leave the cap **loose**, and let it ferment in a warm, dark place.
 
 This creates a **live culture of Effective Microorganisms (EM)** for ongoing use.
 
-Additionally, you can increase the microbial diversity in the spray by adding a small amount of bokashi leachate, fermented plant juice (I bokashi comfrey leaves), whey (liquid on top of yogurt), or rice water.
+Additionally, you can increase the microbial diversity in the spray by adding a small amount of bokashi leachate, fermented plant juice (I bokashi comfrey leaves), whey (liquid on top of yoghurt), or rice water.
 
-I use a two bottle system and go through a bottle once a week. That way I can have one fermenting and one for use.
+I use a two-bottle system and go through a bottle once a week. That way I can have one fermenting and one for use.
 
 ### ✅ Safety Benefit:
 Fermentation produces **low-pH conditions** that suppress harmful microbes and prevent spoilage.
@@ -78,7 +78,7 @@ Fill your bokashi bin with:
 - **Charcoal and ash** from Stage 1  
 - Spray each layer with bokashi solution  
 
-The bin produces **leachate**: a nitrogen-rich organic liquid fertilizer containing beneficial microbes.  
+The bin produces **leachate**: a nitrogen-rich organic liquid fertiliser containing beneficial microbes.  
 🔸 Dilute **1:100 to 1:200** before applying to sensitive plants.
 
 ### ✅ Safety Benefit:
@@ -121,10 +121,10 @@ Thermophilic microbes break down proteins and fats. **Temperatures above 50°C k
 
 Once compost is partially broken down and earthy-smelling, transfer to a **curing bin** (e.g. an Aerobin) with internal airflow for 2–3 months, length of time needed is dependent on moisture levels and temperature.
 
-This allows the compost to stabilize fully. Check for even moisture and proper aeration. It should smell sweet and have the texture of a rainforest surface.
+This allows the compost to stabilise fully. Check for even moisture and proper aeration. It should smell sweet and have the texture of a rainforest surface.
 
 ### ✅ Safety Benefit:
-Produces **fully mature compost** that’s safe for direct use on food crops. Nutrients are stabilized, acidity reduced.
+Produces **fully mature compost** that’s safe for direct use on food crops. Nutrients are stabilised, acidity reduced.
 
 ---
 
@@ -162,7 +162,7 @@ You’re **converting waste into life**, not landfill. This is **composting with
 |---------------|-------------------|------------------------------------------------------|
 | 🔥 Burn       | Sterilize waste   | Destroys pathogens, seeds, and bones                 |
 | 🧴 EM Mix     | Maintain microbes | Ferments waste, prevents spoilage                    |
-| 🍖 Bokashi    | Anaerobic digest  | Suppresses pathogens, locks in odors                |
+| 🍖 Bokashi    | Anaerobic digest  | Suppresses pathogens, locks in odours                |
 | ♻️ Tumbler     | Aerobic hot compost | Heats up and sanitizes further                  |
 | 🌿 Curing Bin | Final breakdown   | Stabilizes for safe plant use                        |
 | 🪱 Worms/Crops| Optional use      | Ready for soil or worm castings                      |
@@ -186,7 +186,7 @@ This method can be adapted for use on **certified organic farms** by omitting or
 - Supports **closed-loop nutrient cycling** using on-site organic waste
 - Enhances soil with **biochar**, **fermented microbes**, and **stable humus**
 - Improves soil structure, water retention, and microbial health
-- Reduces nutrient loss, odors, and pathogens
+- Reduces nutrient loss, odours, and pathogens
 
 ### 🔄 Adaptations for Certification
 - Meat, dairy, and any non-organic materials
@@ -202,7 +202,7 @@ With these adjustments, Dan’s Soil Alchemy can scale into a **farm-safe compos
 
 This method is about **reducing inputs** and **rebuilding soil health**, not enforcing a particular growing philosophy.
 
-If you're using **chemical fertilizers or pesticides**, that's fine — this compost will still:
+If you're using **chemical fertilisers or pesticides**, that's fine — this compost will still:
 - **Feed your soil**
 - **Improve structure and water retention**
 - **Enhance microbial diversity**
@@ -223,6 +223,5 @@ This work is released under the **Creative Commons CC0 1.0 Universal License**.
 🔗 [View Full Legal Text](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
-Hopefully this guide maximises your use of the organic matter that you generate at home to create garden abundance!
 
 **Happy composting! 🌾**
