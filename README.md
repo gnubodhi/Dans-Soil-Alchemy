@@ -88,7 +88,7 @@ Bokashi Leachate is safe to dogs.
 
 ### 🔄 4-Bokashi Bin Rotation System
 
-Use four bokashi bins on a weekly rotation:
+Use four bokashi bins filling with all kitchen waste on a weekly rotation:
 
 1. Fill one bin per week  
 2. Once full, ferment sealed for 4 weeks  
