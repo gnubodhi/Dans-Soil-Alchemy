@@ -261,6 +261,27 @@ Aerobin: Provides aeration and heat to ensure full pathogen kill and compost sta
 
 Simplicity and Efficiency: This method is relatively easy to manage, and while it may involve multiple steps, it’s not overly complex. Each stage handles specific types of waste and addresses a unique need in the composting process.
 
+--
+
+Preventing Mushroom Growth (If Desired):
+If you want to prevent the growth of harmful mushrooms or magic mushrooms in your garden, you could:
+
+Screen your compost inputs:
+
+Be cautious of the sources of organic matter you use, especially untreated wood and manure, which can carry fungal spores.
+
+Increase compost temperature:
+
+Ensure that your compost pile reaches sufficient heat (above 50°C for several days) to kill most fungal spores. This is particularly important if you are using aerobic composting methods like the Aerobin.
+
+Regularly check your compost:
+
+Monitor for any visible mushrooms or signs of fungal growth. If you see mushrooms, remove them immediately to avoid spreading spores.
+
+Properly manage moisture:
+
+Mushrooms thrive in moist environments. If you want to reduce their growth, avoid over-watering or keeping your compost too moist.
+
 ## 💬 License
 
 This work is released under the **Creative Commons CC0 1.0 Universal License**.
