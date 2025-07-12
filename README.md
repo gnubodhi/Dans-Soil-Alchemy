@@ -22,7 +22,7 @@ Some materials should be burned or put through an **electric composter** (expens
 
 - Dried **weeds** (especially if seeding or invasive)
 - Diseased **garden waste**
-- **Bones**
+- Bokashi or burn all small **Bones** and burn all large **Bones**
 - **Branches, twigs, logs**
 
 ✅ *Put the fire out before the branches become ash — the goal is to preserve charcoal (biochar), which is used throughout this composting method.*
