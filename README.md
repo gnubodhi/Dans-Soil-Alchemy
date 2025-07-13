@@ -218,6 +218,8 @@ Whether you're **certified organic**, **conventional**, or somewhere in between,
 
 Mycelium serves as the soil's recycling system, and its fruiting bodies - mushrooms - may reflect not just species traits but also the quality and toxicity of what's decomposing. Toxins in soil don't always make mushrooms toxic, but certain mushrooms can absorb and even indicate the precence of toxins.
 
+---
+
 ## 💬 License
 
 This work is released under the **Creative Commons CC0 1.0 Universal License**.
