@@ -218,6 +218,12 @@ Whether you're **certified organic**, **conventional**, or somewhere in between,
 
 Mycelium serves as the soil's recycling system, and its fruiting bodies - mushrooms - may reflect not just species traits but also the quality and toxicity of what's decomposing. Toxins in soil don't always make mushrooms toxic, but certain mushrooms can absorb and even indicate the precence of toxins. By de-toxifying that area, a more diverse mushroom population may be able to grow. 
 
+Some fungi—like Pleurotus ostreatus (oyster mushrooms)—can break down petrochemicals, plastics, and even cigarette butts. Others, like Mycena, absorb heavy metals from the soil. This process, known as mycoremediation, is being explored as a low-cost way to clean up polluted land.
+
+In compost, wild mushrooms may signal that the fungal web is thriving. In fact, the types of mushrooms that grow can reflect the toxicity or fertility of the surrounding material. Over time, healthier soil supports a greater diversity of beneficial fungi—some of which may even deactivate toxins and support plant immunity.
+
+In this way, mushrooms don’t just break down matter—they act as bioindicators and biohealers, reflecting and restoring soil health.
+
 ---
 
 ## 💬 License
