@@ -38,7 +38,7 @@ If mushrooms are fruiting in your compost, remove them immediately unless you ar
 
 Use sturdy ground cover or mulch around compost bins to discourage digging
 
-Personal Note: I believe my dog licked compost and experienced symptoms similar to ergot exposure. While I can’t confirm it was ergot, this guide now includes a stronger warning for others. Always observe your pet’s behaviour around compost and play it safe.
+Personal Note: I believe my dog licked compost and experienced symptoms similar to ergot exposure. *While I can’t confirm it was ergot*, this guide now includes a stronger warning for others. Always observe your pet’s behaviour around compost and play it safe.
   
 Always wash hands after handling compost materials.
 
@@ -56,7 +56,7 @@ Some materials should be burned or put through an **electric composter** (expens
 
 ✅ *Put the fire out before the branches become ash — the goal is to preserve charcoal (biochar), which is used throughout this composting method.*
 
-This process produces **charcoal** and **wood ash**, which are added to compost at differnt stages, after letting them 'weather' to neutralise wood ash Ph and allow microbiology to colonise the charcoal.
+This process produces **charcoal** and **wood ash**, which are added to compost at different stages, after letting them 'weather' to neutralise wood ash pH and allow microbiology to colonise the charcoal.
 
 ---
 
