@@ -27,7 +27,7 @@ Some materials should be burned or put through an **electric composter** (expens
 
 ✅ *Put the fire out before the branches become ash — the goal is to preserve charcoal (biochar), which is used throughout this composting method.*
 
-This process produces **charcoal (biochar)** and **wood ash**, which are added to later stages.
+This process produces **charcoal (biochar)** and **wood ash**, which are added to later stages after letting them 'weather' to neutralise Ph and activate charcoal.
 
 ---
 
