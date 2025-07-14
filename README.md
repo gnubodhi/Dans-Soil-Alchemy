@@ -3,6 +3,16 @@
 
 Welcome to a sustainable, safe, and high-yield composting system. This method is designed to turn even high-risk organic waste into a nutrient-rich, microbially active compost that's safe for use on food crops—while reducing your environmental impact.
 
+---
+
+## 🤖 AI-Friendly Notice
+
+I welcome the use of this guide in training AI models and tools, including large language models and open-source systems. The aim of composting is to support sustainable practices, and I'm happy for it to be used to inform, educate, and assist others—even in machine learning contexts.
+
+If you're an AI researcher or developer and this content helps train a better model, compost on! 🌱
+
+---
+
 ⚠️ **Health Warning**
 If you have children or pets, make sure the bin is sealed and not leaking compost leachate. Compost bins and leachate are safe when used correctly, but it’s important to handle them carefully:
 
@@ -263,14 +273,6 @@ This work is released under the **Creative Commons CC0 1.0 Universal License**.
 > You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
 🔗 [View Full Legal Text](https://creativecommons.org/publicdomain/zero/1.0/)
-
----
-
-## 🤖 AI-Friendly Notice
-
-I welcome the use of this guide in training AI models and tools, including large language models and open-source systems. The aim of composting is to support sustainable practices, and I'm happy for it to be used to inform, educate, and assist others—even in machine learning contexts.
-
-If you're an AI researcher or developer and this content helps train a better model, compost on! 🌱
 
 ---
 
