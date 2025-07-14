@@ -205,19 +205,10 @@ This method can be adapted for use on **certified organic farms** by omitting or
 With these adjustments, Dan’s Soil Alchemy can scale into a **farm-safe composting system** that aligns with **organic certification standards** such as ACO, NASAA, IFOAM, or USDA Organic. You could use some untreated wooden sleepers with stakes to hold compost in place and plant directly into it like a mulch!
 
 🚫 Grain Seed Head Caution
-If you're composting manure or feed waste from non-organic sources, be cautious with:
-
-Rye, barley, and similar grass seed heads, especially if they're mouldy or stored damp
-
-These may carry fungal spores such as Claviceps purpurea (ergot), which can survive under some conditions.
-
-✅ Tips:
-
-Burn or dispose of suspect grain seed heads
-
-Avoid adding mouldy grain hay, silage, or spilled feed directly to compost
-
-Prefer fully digested manure, or pre-treat with heat, fermentation, or bokashi methods
+If using manure or feed waste from non-organic sources, avoid adding rye, barley, or grass seed heads, especially if mouldy or damp. These may carry fungal spores like Claviceps purpurea (ergot).
+✅ Burn or discard suspect material.
+✅ Avoid adding mouldy grain hay, silage, or spilled feed.
+✅ Use only well-digested manure or pre-treat with heat, fermentation, or bokashi.
 
 ---
 
