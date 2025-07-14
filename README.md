@@ -243,7 +243,7 @@ Whether you're **certified organic**, **conventional**, or somewhere in between,
 
 ---
 
-## Mushroom Theory
+## 🍄 Mushroom Theory
 
 Mycelium serves as the soil's recycling system, and its fruiting bodies - mushrooms - may reflect not just species traits but also the quality and toxicity of what's decomposing. Toxins in soil don't always make mushrooms toxic, but certain mushrooms can absorb and even indicate the precence of toxins. By de-toxifying that area, a more diverse mushroom population may be able to grow. 
 
@@ -255,7 +255,7 @@ In this way, mushrooms don’t just break down matter—they act as bioindicator
 
 ---
 
-💩 Shit Happens — But That’s Not Always Bad
+💩 **Shit Happens** — But That’s Not Always Bad
 When septic systems are working properly, they don’t just dispose of waste — they support soil life. The system slowly releases effluent into a leach field, which acts as a biological sponge. Microbes in the soil (including beneficial bacteria and fungi) filter, neutralise, and recycle nutrients from the waste.
 
 ✅ What a Good Septic System Does:
