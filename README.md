@@ -11,37 +11,6 @@ If you have children or pets, make sure the bin is sealed and not leaking compos
 - **Mushrooms**: Mushrooms (including magic and deathcap mushrooms) may grow in compost with a well-developed fungal network. If this occurs, remove them immediately. Be cautious about **wild mushrooms**, as some may be toxic. Always properly manage moisture and compost temperature to reduce fungal growth. But I have some strong mycelium growing that ate through a wooden sleeper retaining wall in a single year.
 - **Bokashi Leachate**: The liquid produced by a bokashi bin (leachate) is safe to use as a fertiliser when diluted properly (1:100 to 1:200), but it shouldn’t be ingested. Avoid direct skin contact and ensure children or pets do not handle it. If touched, wash hands thoroughly.
 
-- 🐶 **Compost and Pets** — A Caution on Fungi and Ergot
-Dogs are curious creatures. They sniff, dig, and yes — sometimes lick compost. While most mature compost is safe, some materials can host dangerous fungi or microbes during decomposition, especially if moisture and inputs aren't balanced.
-
-One rare but serious risk is ergot — a toxic fungus that grows on some grains and grasses. If your compost includes grass clippings, straw, or seed heads from rye or similar plants, it’s possible (though uncommon) for ergot to survive and produce ergot alkaloids, which are toxic to pets and humans in even small amounts.
-
-⚠️ Symptoms of Ergot Poisoning in Dogs:
-Hypervigilance or altered behaviour
-
-Panting or trembling
-
-Disorientation or muscle rigidity
-
-Vomiting, seizures (in severe cases)
-
-If you suspect ergot ingestion, seek veterinary advice immediately. Even small doses can be serious.
-
-🛡️ Pet-Safe Composting Tips:
-Avoid composting grains or grasses with seed heads, especially rye or barley
-
-Keep bins fully sealed — bokashi bins and aerobins are ideal
-
-Never allow leachate to pool where pets can access it
-
-If mushrooms are fruiting in your compost, remove them immediately unless you are 100% certain of the species
-
-Use sturdy ground cover or mulch around compost bins to discourage digging
-
-Personal Note: I believe my dog licked compost and experienced symptoms similar to ergot exposure. *While I can’t confirm it was ergot*, this guide now includes a stronger warning for others. Always observe your pet’s behaviour around compost and play it safe.
-  
-Always wash hands after handling compost materials.
-
 ---
 
 ## 🔥 Stage 1: Burn Hazardous Inputs or Use an Electric Composter
