@@ -127,7 +127,7 @@ Thermophilic microbes break down proteins and fats. **Temperatures above 50°C k
 
 ## 🌿 Stage 5: Aerobin or Curing Bin (with Lungs)
 
-Once compost is partially broken down and earthy-smelling, transfer to a **curing bin** (e.g. an Aerobin) with internal airflow for 2–3 months, length of time needed is dependent on moisture levels and temperature.
+Once compost is partially broken down and earthy-smelling, transfer to a **curing bin** (e.g. an Aerobin) with internal airflow for 2–3 months, length of time needed is dependent on moisture levels and temperature. This allows fungal growth in addition to the bacteria growth in earlier stages.
 
 This allows the compost to stabilise fully. Check for even moisture and proper aeration. It should smell sweet and have the texture of a rainforest surface. I see mycorrhiza webs over the plain cardboard and wood chips in the bin.
 
