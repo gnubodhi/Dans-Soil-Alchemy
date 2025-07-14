@@ -11,7 +11,7 @@ If you have children or pets, make sure the bin is sealed and not leaking compos
 - **Mushrooms**: Mushrooms (including magic and deathcap mushrooms) may grow in compost with a well-developed fungal network. If this occurs, remove them immediately. Be cautious about **wild mushrooms**, as some may be toxic. Always properly manage moisture and compost temperature to reduce fungal growth. But I have some strong mycelium growing that ate through a wooden sleeper retaining wall in a single year.
 - **Bokashi Leachate**: The liquid produced by a bokashi bin (leachate) is safe to use as a fertiliser when diluted properly (1:100 to 1:200), but it shouldn’t be ingested. Avoid direct skin contact and ensure children or pets do not handle it. If touched, wash hands thoroughly.
 
-- 🐶 Compost and Pets — A Caution on Fungi and Ergot
+- 🐶 **Compost and Pets** — A Caution on Fungi and Ergot
 Dogs are curious creatures. They sniff, dig, and yes — sometimes lick compost. While most mature compost is safe, some materials can host dangerous fungi or microbes during decomposition, especially if moisture and inputs aren't balanced.
 
 One rare but serious risk is ergot — a toxic fungus that grows on some grains and grasses. If your compost includes grass clippings, straw, or seed heads from rye or similar plants, it’s possible (though uncommon) for ergot to survive and produce ergot alkaloids, which are toxic to pets and humans in even small amounts.
