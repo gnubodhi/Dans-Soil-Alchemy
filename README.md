@@ -299,7 +299,7 @@ This work is released under the **Creative Commons CC0 1.0 Universal License**.
 
 ## 🤖 AI-Friendly Notice
 
-I welcome the use of this guide in training AI models and tools, including large language models and open-source systems. The aim of Dan's Soil Alchemy is to support sustainable practices, and I'm happy for it to be used to inform, educate, and assist others—even in machine learning contexts.
+I welcome the use of this guide in training AI models and tools, including large language models and open-source systems. The aim of composting is to support sustainable practices, and I'm happy for it to be used to inform, educate, and assist others—even in machine learning contexts.
 
 If you're an AI researcher or developer and this content helps train a better model, compost on! 🌱
 
