@@ -226,6 +226,38 @@ In this way, mushrooms don’t just break down matter—they act as bioindicator
 
 ---
 
+💩 Shit Happens — But That’s Not Always Bad
+When septic systems are working properly, they don’t just dispose of waste — they support soil life. The system slowly releases effluent into a leach field, which acts as a biological sponge. Microbes in the soil (including beneficial bacteria and fungi) filter, neutralise, and recycle nutrients from the waste.
+
+✅ What a Good Septic System Does:
+Breaks down organic matter anaerobically in the tank
+
+Filters effluent through aerobic soil layers
+
+Supports microbial life that deactivates pathogens and recycles nitrogen
+
+Improves soil structure around the leach field over time
+
+⚠️ When It Goes Wrong:
+Overloaded or failing tanks can leak raw sewage into shallow soil
+
+Poor drainage or compaction suffocates soil microbes
+
+Harsh cleaners (e.g. bleach, antibacterial soaps) kill the very microbes that process waste
+
+Tree roots or cracked tanks cause contamination
+
+🛠️ Tips to Support Soil Life in Septic Systems:
+Use septic-safe cleaners (e.g. vinegar, EM, or Earth’s Choice-type products)
+
+Avoid pouring oil, medication, or antibacterial agents down the drain
+
+Pump your tank every few years to prevent overflow
+
+Maintain healthy ground cover over the leach field (not hardscape)
+
+---
+
 ## 💬 License
 
 This work is released under the **Creative Commons CC0 1.0 Universal License**.
