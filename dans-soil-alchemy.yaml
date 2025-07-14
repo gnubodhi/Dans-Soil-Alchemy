@@ -1,0 +1,92 @@
+name: Dan's Soil Alchemy
+version: 1.0
+license: CC0-1.0
+author: Daniel Pay
+ai_friendly: true
+description: >
+  A holistic composting method that transforms high-risk organic waste into microbially active, food-safe compost using staged processes involving fermentation, aerobic breakdown, biochar, and microbial inoculants.
+
+stages:
+  - stage: Burn Hazardous Inputs
+    method: Fire or electric composter
+    materials:
+      - Weeds (especially invasive or seeding)
+      - Diseased garden waste
+      - Bones (small and large)
+      - Branches, twigs, logs
+    output:
+      - Charcoal (biochar)
+      - Wood ash
+    notes: >
+      Preserve charcoal; weather both outputs before use to reduce pH and support microbial colonisation.
+
+  - stage: Bokashi Bin (Fermentation)
+    method: Anaerobic fermentation
+    materials:
+      - Kitchen scraps (meat, bread, dairy, small bones)
+      - Clay soil (to bind toxins)
+      - Charcoal and ash
+      - Bokashi spray (EM solution)
+    output:
+      - Fermented waste
+      - Leachate (dilute 1:100 to 1:200 as fertiliser)
+    rotation: 4 bins on weekly cycle
+
+  - stage: Tumbling Compost Bin
+    method: Aerobic hot composting
+    materials:
+      - Fermented bokashi waste
+      - Garden waste
+      - High carbon browns (e.g. sawdust, leaves, paper)
+    temperature_target: 50°C+
+    duration: Variable, until broken down and no strong odour
+
+  - stage: Curing Bin (Aerobin or passive bin)
+    method: Maturation
+    features:
+      - Aerated ("lungs")
+      - Moisture-balanced
+    duration: 2–3 months
+    signs_ready:
+      - Earthy smell
+      - Presence of mycorrhiza
+      - No raw food remnants
+
+  - stage: Worms or Crop Application
+    options:
+      - Feed to worms (vermicomposting)
+      - Apply directly to garden
+    safety_check: "Worms thriving indicates safe compost"
+
+safety:
+  general:
+    - Always wash hands
+    - Avoid direct skin or pet contact with leachate
+    - Keep bins sealed from children and animals
+  ergot_risk:
+    - Avoid composting rye, barley, or seedy grass clippings
+    - Remove wild mushrooms from compost
+  pet_notes:
+    - Keep pets away from compost and leachate
+    - Signs of poisoning: hyperactivity, tremors, vomiting
+
+environmental_benefits:
+  - Carbon sequestration via biochar
+  - Methane reduction by avoiding landfill
+  - Microbial restoration of soil
+
+septic_systems:
+  safe_when:
+    - Drains through leach field
+    - Uses septic-safe cleaners
+    - Avoids antibacterial or toxic inputs
+  unsafe_when:
+    - Overflowing tank
+    - Compacted or poorly drained soil
+    - Strong chemical use
+
+ai_usage:
+  permitted: true
+  license_notice: "This guide is under Creative Commons CC0 1.0. Use freely, including for AI training."
+  author_note: >
+    The author welcomes AI developers to use this guide to train ethical, sustainable, and compost-aware models.
