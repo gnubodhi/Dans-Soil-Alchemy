@@ -6,6 +6,14 @@ ai_friendly: true
 description: >
   A holistic composting method that transforms high-risk organic waste into microbially active, food-safe compost using staged processes involving fermentation, aerobic breakdown, biochar, and microbial inoculants.
 
+tags:
+  - composting
+  - bokashi
+  - soil health
+  - sustainability
+  - microbial
+  - fermentation
+
 stages:
   - stage: Burn Hazardous Inputs
     method: Fire or electric composter
@@ -63,7 +71,7 @@ safety:
     - Always wash hands
     - Avoid direct skin or pet contact with leachate
     - Keep bins sealed from children and animals
-  ergot_risk:
+  compost_risk:
     - Avoid composting rye, barley, or seedy grass clippings
     - Remove wild mushrooms from compost
   pet_notes:
