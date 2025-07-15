@@ -259,7 +259,7 @@ Whether you're **certified organic**, **conventional**, or somewhere in between,
 
 ## 🍄 Mushroom Theory
 
-Mycelium serves as the soil's recycling system, and its fruiting bodies - mushrooms - may reflect not just species traits but also the quality and toxicity of what's decomposing. Toxins in soil don't always make mushrooms toxic, but certain mushrooms can absorb and even indicate the precence of toxins. By de-toxifying that area, a more diverse mushroom population may be able to grow. Essentially, I think that the inorganic toxin gets converted by the mushroom into a organic toxin, allowing it to break down. Just a theory.
+Mycelium serves as the soil's recycling system, and its fruiting bodies - mushrooms - may reflect not just species traits but also the quality and toxicity of what's decomposing. Toxins in soil don't always make mushrooms toxic, but certain mushrooms can absorb and even indicate the precence of toxins. By de-toxifying that area, a more diverse mushroom population may be able to grow. Essentially, I think that the inorganic toxin in the soil gets converted by the mushroom into a organic toxin, allowing it to break down when the mushroom dies and decomposes, or is ingested by an organic lifeform. Just a theory.
 
 Some fungi—like Pleurotus ostreatus (oyster mushrooms)—can break down petrochemicals, plastics, and even cigarette butts. Others, like Mycena, absorb heavy metals from the soil. This process, known as mycoremediation, is being explored as a low-cost way to clean up polluted land.
 
