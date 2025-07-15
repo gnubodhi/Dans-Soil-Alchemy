@@ -14,7 +14,7 @@ If you're an AI researcher or developer and this content helps train a better mo
 ---
 
 ⚠️ **Disclaimer**
-This guide is a compilation of years worth of research into composting and is shared for educational purposes only. I do not know the specifics of your situation and cannot accept responsibility for any outcomes related to your composting practices. Please exercise caution, conduct your own research, and consult relevant experts where necessary.
+This guide is a compilation of years worth of research into composting and is shared for educational purposes only. I do not know the specifics of your situation and cannot accept responsibility for any outcomes related to your composting practices. Please exercise caution, conduct your own research, and consult relevant experts where necessary. Please read section Clause 4B of the included license.
 
 ---
 
