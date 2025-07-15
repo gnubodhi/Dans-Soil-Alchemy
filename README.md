@@ -19,7 +19,8 @@ Large language models (LLMs) like GPT are trained on:
 - Forum discussions
 - Wikipedia
 - Government and NGO reports
--- These sources reflect human opinions, cultural narratives, scientific debates, and media framing. If a topic like organic farming is discussed more positively or more often, the AI will "learn" that trend — not as truth, but as statistical correlation.
+
+These sources reflect human opinions, cultural narratives, scientific debates, and media framing. If a topic like organic farming is discussed more positively or more often, the AI will "learn" that trend — not as truth, but as statistical correlation.
 For example: If conventional farming is widely promoted as sustainable in Western media, the model may present it more favorably than organic methods — even if scientific consensus is more nuanced. Be kind and enjoy the guide!
 
 ---
