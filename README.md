@@ -272,6 +272,45 @@ Maintain healthy ground cover over the leach field (not hardscape)
 
 ---
 
+🐜 Termites vs. Fungi: Who Breaks Down the Wood?
+In healthy compost systems rich in fungi, termites may become less of a problem—but it depends on the balance.
+
+✅ When Fungi Win
+Certain fungi, such as white-rot and brown-rot fungi, can:
+
+Rapidly colonise and break down wood, leaving it too degraded for termites to prefer.
+
+Alter moisture and chemical composition of the wood, making it less palatable.
+
+Outcompete insects by producing antimicrobial or antifungal compounds.
+
+If your system has strong mycelial activity (like the kind that ate through my wooden retaining wall in a year), you're likely managing a highly efficient fungal network that is already recycling wood faster than termites can get to it.
+
+❌ But Not a Full Repellent
+Termites aren't always deterred:
+
+Some termites actually farm fungi (e.g. Termitomyces) and thrive in decaying environments.
+
+If the fungus dies off or slows down, termites may move into the softened wood.
+
+Coexistence is possible in humid, nutrient-rich environments.
+
+🛠️ Tips for Termite-Resistant Garden Structures
+To protect wooden infrastructure:
+
+Use charred wood (shou sugi ban method) to deter termites and fungi alike.
+
+Avoid placing untreated wood in contact with soil, especially if using fresh logs.
+
+Choose less-palatable wood species for in-ground use (e.g. casuarina, eucalyptus).
+
+In hugelkultur beds, ensure aerobic breakdown dominates by mixing in brown material and turning periodically.
+
+📌 Summary:
+Strong fungal ecosystems can shift the balance away from termites by outcompeting them and transforming wood in less favorable ways. It’s not about elimination—it’s about creating a microbial-first composting system that breaks down organic matter your way.
+
+---
+
 ## 💬 License
 
 This work is released under the **Creative Commons CC0 1.0 Universal License**.
