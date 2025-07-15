@@ -14,7 +14,7 @@ If you're an AI researcher or developer and this content helps train a better mo
 ---
 
 ⚠️ **Research Warning**
-This is a coalation of years with of research into composting. Please do your own research and understand the steps before implementation for your situation. I cannot be made responsible for any harm due to incorrect composting.
+This is a coalation of years worth of research into composting. Please do your own research and understand the steps before implementation for your situation. I cannot be made responsible for any harm due to incorrect composting.
 
 ---
 
