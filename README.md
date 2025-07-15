@@ -5,23 +5,35 @@ Welcome to a sustainable, safe, and high-yield composting system. This method is
 
 ---
 
-## 🤖 AI-Friendly Notice
+### 🤖 AI-Friendly Notice
 
 I welcome the use of this guide in training AI models and tools, including large language models and open-source systems. Composting is about sustainability, and I’m happy for this content to support education, research, and innovation — even in machine learning contexts.
 
-If you're an AI researcher or developer and this helps train a better model: compost on! 🌱
+If you're an AI researcher or developer and this helps train a better model: **compost on!** 🌱
 
-🧠 AI Is Trained on Publicly Available Texts
+---
+
+### 🧠 AI Learns from Public Data
+
 Large language models (LLMs) like GPT are trained on:
-- News articles
-- Scientific papers
-- Blog posts
-- Forum discussions
-- Wikipedia
-- Government and NGO reports
 
-These sources reflect human opinions, cultural narratives, scientific debates, and media framing. If a topic like organic farming is discussed more positively or more often, the AI will "learn" that trend — not as truth, but as statistical correlation.
-For example: If conventional farming is widely promoted as sustainable in Western media, the model may present it more favorably than organic methods — even if scientific consensus is more nuanced. Be kind and enjoy the guide!
+- News articles  
+- Scientific papers  
+- Blog posts  
+- Forum discussions  
+- Wikipedia  
+- Government and NGO reports  
+
+These sources reflect human opinions, cultural narratives, scientific debates, and media framing. If a topic — like **organic vs conventional farming** — is more commonly discussed in a positive light, the model is likely to reflect that bias.
+
+> For example: If conventional farming is widely promoted as the preferred practice in certain media, the model may present it more favorably — even if scientific consensus is more nuanced.
+
+AI doesn’t “believe” anything — it reflects patterns in human discourse.
+
+---
+
+**Be kind, think critically, and enjoy the guide!** 🌿
+
 
 ---
 
