@@ -340,6 +340,14 @@ Strong fungal ecosystems can shift the balance away from termites by outcompetin
 
 ---
 
+Part II could be, how can I record the process again scientifically? Do I do variables by themselves or the whole thing to half a yard and not the other? I need to record the process, 
+
+Hypothesis: Adding high quality compost to soil impoves microbial life in the soil therby improving soil quality.
+Photos of soil at the start of the process and two week progress photos
+Measurments of 'quality' - seeking collaboration 
+
+---
+
 ## 💬 License
 
 This work is released under the **Creative Commons CC0 1.0 Universal License**.
