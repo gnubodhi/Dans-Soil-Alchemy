@@ -224,6 +224,7 @@ This method can be adapted for use on **certified organic farms** by omitting or
 - Enhances soil with **biochar**, **fermented microbes**, and **stable humus**
 - Improves soil structure, water retention, and microbial health
 - Reduces nutrient loss, odours, and pathogens
+- Add as a mulch or digin. If added as a mulch, the fresher bits at the top will act as a weed supressor, and the older compost will start to develop a soil like texture.
 
 ### 🔄 Adaptations for Certification
 - Meat, dairy, and any non-organic materials
