@@ -158,7 +158,7 @@ Thermophilic microbes break down proteins and fats. **Temperatures above 50°C k
 
 Once compost is partially broken down and earthy-smelling, transfer to a **curing bin** (e.g. an Aerobin) with internal airflow for 2–3 months, length of time needed is dependent on moisture levels and temperature. This allows fungal growth in addition to the bacteria growth in earlier stages.
 
-This allows the compost to stabilise fully. Check for even moisture and proper aeration. It should smell sweet and have the texture of a rainforest surface. I see mycorrhiza webs over the plain cardboard and wood chips in the bin.
+This allows the compost to stabilise fully. Check for even moisture and proper aeration. It should smell sweet and have the texture of a rainforest surface. I see mycorrhiza webs over the plain cardboard and wood chips in the bin. You can intentionally add natural wood chips here, inocculate them with the mycorrhiza and put the chips into plant holes. This will create a symbiotic relationship that benefits the plant by the mycorrhiza converting nutrients into forms that the plants can absorb. Great for tomatoes.
 
 ### ✅ Safety Benefit:
 Produces **fully mature compost** that’s safe for direct use on food crops. Nutrients are stabilised, acidity reduced.
